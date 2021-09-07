@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Memory-Card-Game/static/css/main.1c4db335.chunk.css",
+    "main.js": "/Memory-Card-Game/static/js/main.b44cc7c9.chunk.js",
+    "main.js.map": "/Memory-Card-Game/static/js/main.b44cc7c9.chunk.js.map",
+    "runtime-main.js": "/Memory-Card-Game/static/js/runtime-main.4e02c6d6.js",
+    "runtime-main.js.map": "/Memory-Card-Game/static/js/runtime-main.4e02c6d6.js.map",
+    "static/js/2.eec3b36d.chunk.js": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js",
+    "static/js/2.eec3b36d.chunk.js.map": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js.map",
+    "index.html": "/Memory-Card-Game/index.html",
+    "static/css/main.1c4db335.chunk.css.map": "/Memory-Card-Game/static/css/main.1c4db335.chunk.css.map",
+    "static/js/2.eec3b36d.chunk.js.LICENSE.txt": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js.LICENSE.txt",
+    "static/media/AdjudicatorRick.87d41ad9.png": "/Memory-Card-Game/static/media/AdjudicatorRick.87d41ad9.png",
+    "static/media/DoofusRick.5ce4aaf4.png": "/Memory-Card-Game/static/media/DoofusRick.5ce4aaf4.png",
+    "static/media/EyepatchRick.11d73ec3.jpg": "/Memory-Card-Game/static/media/EyepatchRick.11d73ec3.jpg",
+    "static/media/FarmerRick.5e1b8bd3.png": "/Memory-Card-Game/static/media/FarmerRick.5e1b8bd3.png",
+    "static/media/HawaiianRick.f501df1c.png": "/Memory-Card-Game/static/media/HawaiianRick.f501df1c.png",
+    "static/media/JerrySmith.93e62c22.jpg": "/Memory-Card-Game/static/media/JerrySmith.93e62c22.jpg",
+    "static/media/MortySmith.d0550003.jpg": "/Memory-Card-Game/static/media/MortySmith.d0550003.jpg",
+    "static/media/PickleRick.ffbe7946.png": "/Memory-Card-Game/static/media/PickleRick.ffbe7946.png",
+    "static/media/RickSanchez.0afe0db0.jpg": "/Memory-Card-Game/static/media/RickSanchez.0afe0db0.jpg",
+    "static/media/RiqIV.161686fa.png": "/Memory-Card-Game/static/media/RiqIV.161686fa.png",
+    "static/media/SummerSmith.455f23c7.jpg": "/Memory-Card-Game/static/media/SummerSmith.455f23c7.jpg",
+    "static/media/WaspRick.6ffb35bb.jpeg": "/Memory-Card-Game/static/media/WaspRick.6ffb35bb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e02c6d6.js",
+    "static/js/2.eec3b36d.chunk.js",
+    "static/css/main.1c4db335.chunk.css",
+    "static/js/main.b44cc7c9.chunk.js"
+  ]
+}

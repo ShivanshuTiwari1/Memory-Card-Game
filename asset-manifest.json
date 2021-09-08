@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Memory-Card-Game/static/css/main.1c4db335.chunk.css",
+    "main.css": "/Memory-Card-Game/static/css/main.6268be65.chunk.css",
     "main.js": "/Memory-Card-Game/static/js/main.b44cc7c9.chunk.js",
     "main.js.map": "/Memory-Card-Game/static/js/main.b44cc7c9.chunk.js.map",
     "runtime-main.js": "/Memory-Card-Game/static/js/runtime-main.4e02c6d6.js",
@@ -8,7 +8,7 @@
     "static/js/2.eec3b36d.chunk.js": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js",
     "static/js/2.eec3b36d.chunk.js.map": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js.map",
     "index.html": "/Memory-Card-Game/index.html",
-    "static/css/main.1c4db335.chunk.css.map": "/Memory-Card-Game/static/css/main.1c4db335.chunk.css.map",
+    "static/css/main.6268be65.chunk.css.map": "/Memory-Card-Game/static/css/main.6268be65.chunk.css.map",
     "static/js/2.eec3b36d.chunk.js.LICENSE.txt": "/Memory-Card-Game/static/js/2.eec3b36d.chunk.js.LICENSE.txt",
     "static/media/AdjudicatorRick.87d41ad9.png": "/Memory-Card-Game/static/media/AdjudicatorRick.87d41ad9.png",
     "static/media/DoofusRick.5ce4aaf4.png": "/Memory-Card-Game/static/media/DoofusRick.5ce4aaf4.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.4e02c6d6.js",
     "static/js/2.eec3b36d.chunk.js",
-    "static/css/main.1c4db335.chunk.css",
+    "static/css/main.6268be65.chunk.css",
     "static/js/main.b44cc7c9.chunk.js"
   ]
 }

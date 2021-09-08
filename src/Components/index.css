@@ -1,7 +1,9 @@
 body
 {
-    color: #AACCFE;
-    background-color: #334d50;
+    /* font-family: 'Ubuntu', sans-serif; */
+    font-family: 'Montserrat', sans-serif;
+    color: #66FCF1;
+    background-color: #0B0C10;
     margin: 0px;
     padding: 0px;
 }
@@ -22,10 +24,11 @@ body
 }
 .card
 {
+    border: 2px solid #66FCF1;
     text-align: center;
     width: 250px;
     height: 320px;
-    background-color: rgb(18, 112, 34);
+    background-color: transparent;
     margin: 20px 40px;
     border-radius: 10px;
     
@@ -34,6 +37,7 @@ body
     transition: 0.3s;
 }
 .cardimg{
+    border: 2px solid #66FCF1;
     display: block;
     margin: 1rem auto;
     margin-bottom: 1rem;
@@ -52,6 +56,6 @@ body
     font-size: 27px;
     font-weight: 700;
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
